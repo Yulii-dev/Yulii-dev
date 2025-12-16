@@ -61,36 +61,17 @@ y visualmente agradables, fortaleciendo cada día mis bases en programación.
 
 ---
 
-## 📊 Estadísticas GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yulii-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
+## 📈 Estadísticas de Desarrollo
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yulii-dev&theme=tokyonight&hide_border=true"/>
-</p>
+### **Actividad General**
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=Yulii-dev&show_icons=true&theme=radical&hide_title=true&hide_border=true&bg_color=00000000&text_color=5D8BF4&icon_color=FF6B6B&border_radius=15&custom_title=Desempeño%20GitHub)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yulii-dev&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+### **Lenguajes Principales**
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Yulii-dev&layout=compact&theme=radical&hide_border=true&bg_color=00000000&text_color=5D8BF4&border_radius=15&langs_count=6&exclude_repo=Yulii-dev.github.io)
 
-
-## 📊 Métricas de Desarrollo
-
-<div align="center">
-
-### **Dashboard de Productividad**
-
-| | |
-|:---:|:---:|
-| ![Estadísticas Generales](https://github-readme-stats.vercel.app/api?username=Yulii-dev&show_icons=true&theme=algolia&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&line_height=20&title_color=2E8B57&icon_color=FF6347&text_color=2F4F4F) | ![Lenguajes de Programación](https://github-readme-stats.vercel.app/api/top-langs/?username=Yulii-dev&layout=compact&theme=algolia&hide_border=true&bg_color=00000000&title_color=2E8B57&text_color=2F4F4F&langs_count=6) |
-
-### **Consistencia y Progreso**
-![Racha de Contribuciones](https://streak-stats.demolab.com?user=Yulii-dev&theme=algolia&hide_border=true&background=00000000&dates=4682B4&fire=FF4500&ring=2E8B57&stroke=2E8B57)
-
-</div>
-
+### **Racha de Contribuciones**
+![Racha](https://streak-stats.demolab.com?user=Yulii-dev&theme=radical&hide_border=true&border_radius=15&background=00000000&dates=5D8BF4&fire=FF6B6B&ring=5D8BF4)
 
 
 
