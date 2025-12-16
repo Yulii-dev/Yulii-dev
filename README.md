@@ -83,16 +83,11 @@ y visualmente agradables, fortaleciendo cada día mis bases en programación.
   <img src="https://github-readme-stats.vercel.app/api?username=Yulii-dev&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=2E7D32&text_color=2E2E2E&icon_color=66BB6A"/>
 </p>
 
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yulii-dev&theme=tokyonight&hide_border=true"/> </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yulii-dev&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=2E7D32&text_color=2E2E2E"/>
 </p>
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yulii-dev&hide_border=true&background=FFFFFF&ring=2E7D32&fire=66BB6A&currStreakLabel=2E7D32&sideLabels=2E7D32&dates=2E2E2E"/>
-</p>
-
 
 
 
@@ -117,7 +112,7 @@ y buenas prácticas de maquetación.
 
 ---
 
-## ✴︎˚⋆⋮ 🎯 Objetivo
+## 🎯 Objetivo
 
  ☕︎ Seguir creciendo como desarrolladora web,  
 aprender haciendo, mejorar con cada proyecto  
