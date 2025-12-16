@@ -65,17 +65,16 @@ y visualmente agradables, fortaleciendo cada día mis bases en programación.
 
 ## 📈 Estadísticas de Desarrollo
 
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yulii-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yulii-dev&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yulii-dev&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yulii-dev&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yulii-dev&theme=tokyonight&hide_border=true"/>
 </p>
 
 
