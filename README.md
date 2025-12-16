@@ -62,6 +62,8 @@ y visualmente agradables, fortaleciendo cada día mis bases en programación.
 ----------
 
 
+
+
 ## 📈 Estadísticas de Desarrollo
 
 
@@ -78,7 +80,7 @@ y visualmente agradables, fortaleciendo cada día mis bases en programación.
 </p>
 
 
-
+------
 
 
 ## 🗒 ˎˊ˗ Proyectos destacados
@@ -111,9 +113,7 @@ y construir una base sólida en el mundo del software.
 💼 [LinkedIn](https://www.linkedin.com/in/yulianys-banquez-meza-a0480925a/)  
 💻 GitHub: **Yulii-dev**
 
-<p align="center">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="120"/>
-</p>
+
 
 <p align="center">
    =͟͟͞♡ <em>Transformando curiosidad en código</em>  =͟͟͞♡
