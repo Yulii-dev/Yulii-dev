@@ -1,11 +1,28 @@
 
-<h1 align="center">
-  Hola, soy Yulianys 👋
+
+
+  <h1 align = "center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1400&pause=500&color=FF72FF&background=000000EE&center=true&multiline=true&width=1920&height=384&lines=Hello+there+!;+I'm+Yuli+;Welcome+to+my+GitHub+profile" alt="Typing SVG" /></a>
 </h1>
+ 
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣤⣄⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⣰⠞⠛⠲⣦⣤⠤⠤⢴⠏⣦⣈⣷⣚⠉⠻⡄⠀⠀
+⠀⠀⠀⣿⣀⠀⠈⠁⠀⠀⠀⢾⡀⢻⡿⠉⠉⣷⡞⠻⣦⠀
+⠀⠀⢀⡿⠁⠀⠀⠀⠀⠀⠀⠈⠛⠛⠷⣤⣴⠿⠿⣠⡟⠀
+⠀⠀⣾⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⢦⡶⢻⡄⠀
+⠠⠤⡧⠤⠄⢠⣤⠀⠀⠀⠀⠀⠀⠀⠀⣤⣄⠀⠋⢹⡏⠁
+⠀⢀⣿⡤⠄⠘⠿⠁⠀⠠⣞⣻⠄⠀⠀⠻⠏⢀⡈⣽⠛⠃
+⠀⠀⢈⡷⣶⣃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⠿⠛⠂⠀
+⠀⠀⠀⠀⠀⠉⠙⠛⠛⠓⠒⠒⠒⠚⠛⠛⠉⠁⠀⠀⠀
+
+  　
 
 <p align="center">
-  <em>Estudiante de Análisis y Desarrollo de Software</em><br>
-  <strong>Desarrollo Web • Aprendizaje constante • Creatividad</strong>
+  <em>Construyendo criterio, lógica y estilo a través del código</em><br>
+<strong>Curiosidad • Disciplina  • Creatividad  • Evolución constante
+
+</strong>
 </p>
 
 <p align="center">
@@ -14,12 +31,14 @@
 
 ---
 
-## 🌱 Sobre mí
+##  ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> Sobre mí ✿◡‿◡
 
-🎓 Estudiante de **Análisis y Desarrollo de Software**  
-💻 Enfocada en **desarrollo web**  
-🛠️ Construyo soluciones con **HTML, CSS y JavaScript**  
-🌱 Aprendo de forma constante, combinando lógica, estructura y estética  
+{ } •Estudiante de **Análisis y Desarrollo de Software**  
+▰▰▰▱▱ Aprendizaje en progreso
+💻•Enfocada en **desarrollo web**  
+ </> •Construyo soluciones con **HTML, CSS y JavaScript**  
+𖤣𖥧𖥣｡𖤣 •Aprendo de forma constante, combinando lógica, estructura y estética  
+
 
 Me interesa crear experiencias digitales claras, funcionales  
 y visualmente agradables, fortaleciendo cada día mis bases en programación.
@@ -53,14 +72,14 @@ y visualmente agradables, fortaleciendo cada día mis bases en programación.
 
 ---
 
-## 🚀 Proyectos destacados
+## 🗒 ˎˊ˗ Proyectos destacados
 
-🌸 **Floremos**  
+𖡼 ‧⁺🌼 **Floremos**  
 Plataforma web enfocada en la presentación visual de productos,  
 diseñada para aplicar principios de estructura, interacción y experiencia de usuario  
 utilizando tecnologías web fundamentales.
 
-📂 **Mini proyectos JavaScript**  
+📒 **Mini proyectos JavaScript**  
 Colección de ejercicios prácticos para fortalecer lógica, manejo del DOM  
 y comprensión de conceptos clave del lenguaje.
 
@@ -70,9 +89,9 @@ y buenas prácticas de maquetación.
 
 ---
 
-## 🎯 Objetivo
+## ✴︎˚⋆⋮🎯 Objetivo
 
-Seguir creciendo como desarrolladora web,  
+ ☕︎ Seguir creciendo como desarrolladora web,  
 aprender haciendo, mejorar con cada proyecto  
 y construir una base sólida en el mundo del software.
 
@@ -88,5 +107,5 @@ y construir una base sólida en el mundo del software.
 </p>
 
 <p align="center">
-  ✨ <em>Transformando curiosidad en código</em> ✨
+   =͟͟͞♡ <em>Transformando curiosidad en código</em>  =͟͟͞♡
 </p>
