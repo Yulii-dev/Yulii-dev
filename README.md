@@ -39,6 +39,7 @@
 
 { } •Estudiante de **Análisis y Desarrollo de Software**  
 ▰▰▰▱▱ Aprendizaje en progreso
+
 💻•Enfocada en **desarrollo web**  
  </> •Construyo soluciones con **HTML, CSS y JavaScript**  
 𖤣𖥧𖥣｡𖤣 •Aprendo de forma constante, combinando lógica, estructura y estética  
