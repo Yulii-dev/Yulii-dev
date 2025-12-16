@@ -34,12 +34,12 @@
  
  ## Sobre mí ✿◡‿◡
 
-{ } •Estudiante de **Análisis y Desarrollo de Software**  
+{ } • Estudiante de **Análisis y Desarrollo de Software**  
+💻 • Enfocada en **desarrollo web**  
+</> • Construyo soluciones con **HTML, CSS y JavaScript**  
+𖤣𖥧𖥣｡𖤣 • Aprendo de forma constante, combinando lógica, estructura y estética  
 ▰▰▰▱▱ Aprendizaje en progreso
-
-💻•Enfocada en **desarrollo web**  
- </> •Construyo soluciones con **HTML, CSS y JavaScript**  
-𖤣𖥧𖥣｡𖤣 •Aprendo de forma constante, combinando lógica, estructura y estética  
+ 
 
 
 Me interesa crear experiencias digitales claras, funcionales  
@@ -54,6 +54,8 @@ y visualmente agradables, fortaleciendo cada día mis bases en programación.
   <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+ <p align="center"><em>Base sólida en tecnologías web fundamentales</em></p>
+
 </p>
 
 ----------
