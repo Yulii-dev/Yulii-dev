@@ -45,7 +45,7 @@
 Me interesa crear experiencias digitales claras, funcionales  
 y visualmente agradables, fortaleciendo cada día mis bases en programación.
 
-
+---
 
 ## ⚙️ Tecnologías
 
@@ -60,7 +60,7 @@ y visualmente agradables, fortaleciendo cada día mis bases en programación.
 
 
 
-
+---
 
 
 ## 📈 Estadísticas de Desarrollo
@@ -78,7 +78,7 @@ y visualmente agradables, fortaleciendo cada día mis bases en programación.
 </p>
 
 
-
+---
 
 
 ## 🗒 ˎˊ˗ Proyectos destacados
@@ -96,7 +96,7 @@ y comprensión de conceptos clave del lenguaje.
 Diseños simples y funcionales con enfoque en orden visual, claridad  
 y buenas prácticas de maquetación.
 
-
+---
 
 ## ✴︎˚⋆⋮ 🎯 Objetivo
 
@@ -104,7 +104,7 @@ y buenas prácticas de maquetación.
 aprender haciendo, mejorar con cada proyecto  
 y construir una base sólida en el mundo del software.
 
-
+---
 
 ## 📫 Conecta conmigo
 
