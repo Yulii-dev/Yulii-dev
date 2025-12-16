@@ -3,13 +3,10 @@
 </h1>
 ⠀
 <p align="center">
-  <div style="background: white; padding: 15px 15px 60px 15px; border-radius: 4px; display: inline-block; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transform: rotate(2deg);">
-    <img src="https://i.pinimg.com/1200x/dd/5e/2d/dd5e2d4cd80f51c38ebb72081bd9fbba.jpg" width="250" style="border-radius: 2px;" />
-    <div style="margin-top: 10px; font-family: cursive; color: #666; text-align: center; font-size: 14px;">GitHub Profile</div>
-  </div>
+  <img src="https://i.pinimg.com/1200x/dd/5e/2d/dd5e2d4cd80f51c38ebb72081bd9fbba.jpg" width="900" />
 </p>
 
-<pre align="center">
+<pre align="center" >
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣤⣄⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⣰⠞⠛⠲⣦⣤⠤⠤⢴⠏⣦⣈⣷⣚⠉⠻⡄⠀⠀
 ⠀⠀⠀⣿⣀⠀⠈⠁⠀⠀⠀⢾⡀⢻⡿⠉⠉⣷⡞⠻⣦⠀
@@ -19,43 +16,58 @@
 ⠀⢀⣿⡤⠄⠘⠿⠁⠀⠠⣞⣻⠄⠀⠀⠻⠏⢀⡈⣽⠛⠃
 ⠀⠀⢈⡷⣶⣃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⠿⠛⠂⠀
 ⠀⠀⠀⠀⠀⠉⠙⠛⠛⠓⠒⠒⠒⠚⠛⠛⠉⠁⠀⠀⠀⠀
-</pre>
-  　
-
-<p align="center">
-  <em>Construyendo criterio, lógica y estilo a través del código</em><br>
-<strong>Curiosidad • Disciplina  • Creatividad  • Evolución constante
+  <p align="center">
+  <em>Construyendo criterio, lógica y estilo a través del código</em>
+<strong> • Curiosidad • Disciplina  • Creatividad  • Evolución constante
 
 </strong>
 </p>
+</pre>
 
 
-
-
- <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> 
+<div align="center">
+<table>
+<tr>
+<td width="40%" align="center">
+<img src="https://i.pinimg.com/736x/1b/06/c2/1b06c2e551634cc60d7d0c14c0108aa1.jpg" width="200">
+</td>
+<td width="60%" align="left">
+  <h1> Sobre mí </h1>
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> 
  
- ## Sobre mí ✿◡‿◡
+`{ }` • Estudiante de **Análisis y Desarrollo de Software**  
+`💻` • Enfocada en **desarrollo web**  
+`</>`• Construyo soluciones con **HTML, CSS y JavaScript**  
+`𖤣𖥧𖥣｡𖤣` • Aprendo de forma constante, combinando lógica, estructura y estética 
+<br>
 
-{ } • Estudiante de **Análisis y Desarrollo de Software**  
-💻 • Enfocada en **desarrollo web**  
-</> • Construyo soluciones con **HTML, CSS y JavaScript**  
-𖤣𖥧𖥣｡𖤣 • Aprendo de forma constante, combinando lógica, estructura y estética  
 ▰▰▰▱▱ Aprendizaje en progreso
  
 
 
 Me interesa crear experiencias digitales claras, funcionales  
 y visualmente agradables, fortaleciendo cada día mis bases en programación.
+</td>
+</tr>
+</table>
+</div>
+
+
 
 ---
 
 ## ⚙️ Tecnologías
 
+
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
+
+
+
  <p align="center"><em>Base sólida en tecnologías web fundamentales</em></p>
 
 </p>
@@ -68,16 +80,21 @@ y visualmente agradables, fortaleciendo cada día mis bases en programación.
 ## 📈 Estadísticas de Desarrollo
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yulii-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yulii-dev&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=2E7D32&text_color=2E2E2E&icon_color=66BB6A"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yulii-dev&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yulii-dev&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yulii-dev&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=2E7D32&text_color=2E2E2E"/>
 </p>
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yulii-dev&hide_border=true&background=FFFFFF&ring=2E7D32&fire=66BB6A&currStreakLabel=2E7D32&sideLabels=2E7D32&dates=2E2E2E"/>
+</p>
+
+
+
 
 
 ---
