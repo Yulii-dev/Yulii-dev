@@ -29,7 +29,17 @@
   </div>
 </p>
 
+<p align="center">
+  <img src="https://i.pinimg.com/1200x/dd/5e/2d/dd5e2d4cd80f51c38ebb72081bd9fbba.jpg" width="300" style="border-radius: 20px; border: 5px solid transparent; background: linear-gradient(45deg, #FF9A9E, #FAD0C4, #A1C4FD) border-box; animation: glow 3s infinite alternate;" />
+</p>
 
+<style>
+  @keyframes glow {
+    0% { box-shadow: 0 0 10px #FF9A9E; }
+    50% { box-shadow: 0 0 20px #A1C4FD; }
+    100% { box-shadow: 0 0 15px #FAD0C4; }
+  }
+</style>
 
  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> 
  
