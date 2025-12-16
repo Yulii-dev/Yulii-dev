@@ -98,8 +98,7 @@ y buenas prácticas de maquetación.
 
 ---
 
-## ✴︎˚⋆⋮
-## 🎯 Objetivo
+## ✴︎˚⋆⋮ 🎯 Objetivo
 
  ☕︎ Seguir creciendo como desarrolladora web,  
 aprender haciendo, mejorar con cada proyecto  
@@ -107,8 +106,7 @@ y construir una base sólida en el mundo del software.
 
 ---
 
-## 📫 
-## Conecta conmigo
+## 📫 Conecta conmigo
 
 💼 [LinkedIn](https://www.linkedin.com/in/yulianys-banquez-meza-a0480925a/)  
 💻 GitHub: **Yulii-dev**
