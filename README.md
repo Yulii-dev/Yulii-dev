@@ -24,7 +24,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="120"/>
+  <div style="background-color: #2E8B57; padding: 10px; border-radius: 15px; display: inline-block;">
+    <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="120"/>
+  </div>
 </p>
 
 
