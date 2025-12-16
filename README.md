@@ -64,14 +64,19 @@ y visualmente agradables, fortaleciendo cada día mis bases en programación.
 
 ## 📈 Estadísticas de Desarrollo
 
-### **Actividad General**
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=Yulii-dev&show_icons=true&theme=radical&hide_title=true&hide_border=true&bg_color=00000000&text_color=5D8BF4&icon_color=FF6B6B&border_radius=15&custom_title=Desempeño%20GitHub)
 
-### **Lenguajes Principales**
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Yulii-dev&layout=compact&theme=radical&hide_border=true&bg_color=00000000&text_color=5D8BF4&border_radius=15&langs_count=6&exclude_repo=Yulii-dev.github.io)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yulii-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
 
-### **Racha de Contribuciones**
-![Racha](https://streak-stats.demolab.com?user=Yulii-dev&theme=radical&hide_border=true&border_radius=15&background=00000000&dates=5D8BF4&fire=FF6B6B&ring=5D8BF4)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yulii-dev&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yulii-dev&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
 
 
 
