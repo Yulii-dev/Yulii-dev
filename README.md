@@ -75,6 +75,28 @@ y visualmente agradables, fortaleciendo cada día mis bases en programación.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yulii-dev&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
+
+## 📊 Métricas de Desarrollo
+
+<div align="center">
+
+### **Dashboard de Productividad**
+
+| | |
+|:---:|:---:|
+| ![Estadísticas Generales](https://github-readme-stats.vercel.app/api?username=Yulii-dev&show_icons=true&theme=algolia&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&line_height=20&title_color=2E8B57&icon_color=FF6347&text_color=2F4F4F) | ![Lenguajes de Programación](https://github-readme-stats.vercel.app/api/top-langs/?username=Yulii-dev&layout=compact&theme=algolia&hide_border=true&bg_color=00000000&title_color=2E8B57&text_color=2F4F4F&langs_count=6) |
+
+### **Consistencia y Progreso**
+![Racha de Contribuciones](https://streak-stats.demolab.com?user=Yulii-dev&theme=algolia&hide_border=true&background=00000000&dates=4682B4&fire=FF4500&ring=2E8B57&stroke=2E8B57)
+
+</div>
+
+
+
+
+
+
+
 ---
 
 ## 🗒 ˎˊ˗ Proyectos destacados
