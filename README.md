@@ -35,7 +35,7 @@
   <h1> Sobre mí </h1>
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> 
  
-`{ }` • <h5>Estudiante de **Análisis y Desarrollo de Software** <h5/> 
+`{ }` • Estudiante de **Análisis y Desarrollo de Software** 
 `💻` • Enfocada en **desarrollo web**  
 `</>`• Construyo soluciones con **HTML, CSS y JavaScript**  
 `𖤣𖥧𖥣｡𖤣` • Aprendo de forma constante, combinando lógica, estructura y estética 
