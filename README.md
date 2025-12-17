@@ -132,6 +132,9 @@ y construir una base sólida en el mundo del software.
 </p>
 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Yulii-dev/Yulii-dev/output/github-contribution-grid-snake.svg" alt="contribution snake"/>
+</p>
 
 
 
