@@ -64,7 +64,7 @@ y visualmente agradables, fortaleciendo cada día mis bases en programación.<h4
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://i.pinimg.com/736x/90/4c/d3/904cd34ec56f951830dff7319c98192e.jpg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
 
 
@@ -84,15 +84,19 @@ y visualmente agradables, fortaleciendo cada día mis bases en programación.<h4
   <img src="https://github-readme-stats.vercel.app/api?username=Yulii-dev&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=2E7D32&text_color=2E2E2E&icon_color=66BB6A"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Yulii-dev&theme=tokyonight&hide_border=true" />
-</p>
 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yulii-dev&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=2E7D32&text_color=2E2E2E"/>
 </p>
 
+
+
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yulii-dev&theme=tokyonight&hide_border=true"/>
+</p>
 
 
 
