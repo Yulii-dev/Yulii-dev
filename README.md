@@ -17,7 +17,7 @@
 ⠀⠀⢈⡷⣶⣃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⠿⠛⠂⠀
 ⠀⠀⠀⠀⠀⠉⠙⠛⠛⠓⠒⠒⠒⠚⠛⠛⠉⠁⠀⠀⠀⠀
   <p align="center">
-  <em>Construyendo criterio, lógica y estilo a través del código</em>
+  <em> Construyendo criterio, lógica y estilo a través del código</em>
 <strong> • Curiosidad • Disciplina  • Creatividad  • Evolución constante
 
 </strong>
@@ -35,7 +35,7 @@
   <h1> Sobre mí </h1>
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> 
  
-`{ }` • Estudiante de **Análisis y Desarrollo de Software**  
+`{ }` • <h5>Estudiante de **Análisis y Desarrollo de Software** <h5/> 
 `💻` • Enfocada en **desarrollo web**  
 `</>`• Construyo soluciones con **HTML, CSS y JavaScript**  
 `𖤣𖥧𖥣｡𖤣` • Aprendo de forma constante, combinando lógica, estructura y estética 
@@ -45,8 +45,8 @@
  
 
 
-Me interesa crear experiencias digitales claras, funcionales  
-y visualmente agradables, fortaleciendo cada día mis bases en programación.
+<h4>Me interesa crear experiencias digitales claras, funcionales  
+y visualmente agradables, fortaleciendo cada día mis bases en programación.<h4/>
 </td>
 </tr>
 </table>
